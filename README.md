@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 #### [dingming's Blog](https://wohaofang.github.io/)
 
+![vercel](https://github-profile-trophy.vercel.app/?username=wohaofang&column=6)
+
 ![DingMing's GitHub stats](https://github-readme-stats.vercel.app/api?username=wohaofang&show_icons=true&theme=flag-india&hide=prs,issues,contribs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wohaofang&layout=compact)
